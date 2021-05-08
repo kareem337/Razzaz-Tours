@@ -1,6 +1,0 @@
-HCI: 80% code
-
-SE : Document(SRS) + 20% code
-
-Image : Project ( 24/5/2021 )
-
